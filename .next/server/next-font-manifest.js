@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/koushik/Desktop/New Folder/subha-next-services v 2.0/src/app/layout\":[\"static/media/476abc10aa1d2f90-s.p.otf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"

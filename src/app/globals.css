@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.custom-shape-upper{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 39% 75%, 12% 100%, 18% 75%, 0 75%);
+}
+
+.custom-shape-bottom{
+    clip-path: polygon(0 30%, 25% 30%, 18% 0, 45% 30%, 100% 30%, 100% 100%, 0 100%);
+}
